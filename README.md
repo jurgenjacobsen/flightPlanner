@@ -1,7 +1,7 @@
 # Flight Planner
 A flight planning app made to confirm your hand-made flight plans data.
 
-![wakatime](https://wakatime.com/badge/user/010adc07-6382-419f-87bc-0b3f507ee495/project/)
+![wakatime](https://wakatime.com/badge/user/010adc07-6382-419f-87bc-0b3f507ee495/project/9abf2987-80ba-4c9b-89ab-8d8279134ab0.svg?style=flat-square)
 ![Gitmoji](https://img.shields.io/badge/gitmoji-%20%E2%9C%88%EF%B8%8F%20%F0%9F%98%8D-191919.svg?style=flat-square)
 
 ## Features
